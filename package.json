@@ -11,5 +11,13 @@
   "dependencies": {
     "express": "^5.1.0",
     "mongoose": "^8.18.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shatakshi-Shukla-Github/Movie-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shatakshi-Shukla-Github/Movie-App/issues"
+  },
+  "homepage": "https://github.com/Shatakshi-Shukla-Github/Movie-App#readme"
 }
